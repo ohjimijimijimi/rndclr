@@ -1,0 +1,30 @@
+{
+  "name": "rndclr",
+  "version": "1.0.0",
+  "description": "Random color command line tool using https://github.com/davidmerfield/randomColor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohjimijimijimi/rndclr.git"
+  },
+  "keywords": [
+    "random",
+    "color",
+    "color",
+    "command",
+    "line"
+  ],
+  "author": "Sirio Marchi <sirio.marchi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohjimijimijimi/rndclr/issues"
+  },
+  "homepage": "https://github.com/ohjimijimijimi/rndclr#readme",
+  "dependencies": {
+    "randomcolor": "^0.5.3",
+    "yargs": "^11.0.0"
+  }
+}
